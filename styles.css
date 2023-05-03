@@ -5,4 +5,5 @@
 	display: grid;
 	width: 200px;
 	grid-template-columns: repeat(2,auto);
+	grid-template-rows: 100px 100px;
 }
